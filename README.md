@@ -1,3 +1,6 @@
+# 🌱 Sustainability Dashboard
+
+**Live App**: [Click here to view on Streamlit Cloud](https://ritikachaman-sustainability-dashboard.streamlit.app)
 # Sustainability Dashboard (Textile Company)
 
 This project is a Streamlit-based interactive dashboard that demonstrates all must-have features described in the assignment: KPI tiles (Energy, Water, Waste, Emissions), Overall performance, filters, drill-down views, anomaly alerts, export, and more.
